@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">I Like Trains</string>
+    <string name="button_refresh">Refresh</string>
+    <string name="button_flip">Flip</string>
+</resources>
